@@ -16,7 +16,7 @@ There’s plenty of stuff coming up like collector Voxel, Comic and 3D NFTs or S
 
 Our app is bound to evolve, add a tracking dashboard, add a formal rarity system and plenty of other cool stuff.
 
-## **Road to Elrond validator?**
+## **Road to Elrond validator**
 
 ### DAO members are unanimous. ****&#x20;
 
@@ -32,7 +32,7 @@ In Asia**,** there are only 6% of Elrond nodes in activity. We are the perfect o
 
 We're currently 2360 EGLD short of this goal. 7439 NFTs are still to be minted. That means we'll need to hit a median mint price of 0.32 EGLD.
 
-## **Road to DAO?**
+## **Road to DAO**
 
 What we love about web3 is its decentralization. Decentralization allows a lot of people around the world to run an organization. And it needs a few tools.
 
@@ -67,6 +67,10 @@ Several ideas have already surfaced as to what the next step could be. All of th
 ### Play2Earn
 
 We’ve yet to unleash our full creative power. We want to create a gameplay experience to be as immersive and engaging as possible.
+
+### Staking
+
+Staking is a requested feature that we could add, although passive income alone might be appropriate.
 
 ### Charity&#x20;
 

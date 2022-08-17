@@ -59,5 +59,5 @@ Albert is an SEO expert. He is full of great suggestions for making sure we’re
 #### We would not exist without our friends, family, members and advisors!
 
 {% hint style="info" %}
-We also include dozens of people that have helped, advised and supported us during the progress of this project. **Nick**, **Vladimir**, **Dan**, **Troy**, **Julian**, **Horatiu**, **Damian**, **Alex**, **Barbara**, **Fabien**, **Mickael**, **Yacin**, **Thip**, **Jessica**, **Valentin**, **Sergiu**, **Flo**, **Sanji**, **Nali**. And so many others in the community. Thank you all ❤️
+We also include dozens of people that have helped, advised and supported us during the progress of this project. **Nick**, **Vladimir**, **Dan**, **Troy**, **Indie**, **Julian**, **Horatiu**, **Damian**, **Alex**, **Barbara**, **Fabien**, **Mickael**, **Yacin**, **Thip**, **Jessica**, **Valentin**, **Sergiu**, **Flo**, **Sanji**, **Nali**. And so many others in the community. Thank you all ❤️
 {% endhint %}
